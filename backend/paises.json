@@ -1,0 +1,1598 @@
+[
+    {
+        "pais": "Afeganistão",
+        "vacinas": [
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Albânia",
+        "vacinas": [
+        "Pfizer/BioNTech", 
+        "Sputnik V", 
+        "Oxford/AstraZeneca",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Argélia",
+        "vacinas": [
+        "Sputnik V",
+        "Oxford/AstraZeneca",
+        "Sinopharm",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Angola",
+        "vacinas": [
+        "Sputnik Light",
+        "Sputnik V",
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Antigua e Barbuda",
+        "vacinas": [
+        "Sputnik V",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Argentina",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "CanSino",
+        "Sputnik V",
+        "Oxford/AstraZeneca",
+        "Sinopharm",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Armênia",
+        "vacinas": [
+        "Sputnik Light",
+        "Sputnik V",
+        "Oxford/AstraZeneca",
+        "CoronaVac"
+        ]
+    }, 
+    {
+        "pais": "Austrália",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    }, 
+    {
+        "pais": "Áustria",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    }, 
+    {
+        "pais": "Azerbaijão",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Sputnik V",
+        "Oxford/AstraZeneca",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Bahamas",
+        "vacinas": [
+        "Oxford/AstraZeneca"
+        ]
+    }, 
+    {
+        "pais": "Barein",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Sputnik Light",
+        "Sputnik V",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Bangladesh",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Sputnik V",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca",
+        "Sinopharm",
+        "CoronaVac"
+        ]
+    },
+    {
+       "pais": "Barbados",
+       "vacinas": [
+        "Oxford/AstraZeneca"
+       ] 
+    },
+    {
+        "pais": "Bielo-Rússia",
+        "vacinas": [
+        "Sputnik Light",
+        "Sputnik V",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Bélgica",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Belize",
+        "vacinas": [
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+
+        ]         
+    },
+    {
+        "pais": "Benin",
+        "vacinas": [
+        "Oxford/AstraZeneca",
+        "Sinovac"    
+        ]
+    },
+    {
+        "pais": "Bermudas",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Oxford/AstraZeneca"
+        ]
+    }, 
+    {
+        "pais": "Butão",
+        "vacinas": [
+        "Moderna",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Bolivia",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Sputnik V",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Bósnia e Herzegovina",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Sputnik V",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Botsuana",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Oxford/AstraZeneca" 
+        ]
+    }, 
+    {
+        "pais": "Brasil",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Sputnik V",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca",
+        "Sinopharm",
+        "CoronaVac"
+        ]
+    }, 
+    {
+        "pais": "Brunei",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Bulgária",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Burquina Fasso",
+        "vacinas": [
+        "Oxford/AstraZeneca"
+        ]
+    }, 
+    {
+        "pais": "Costa do Marfim",
+        "vacinas": [
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Cabo Verde",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Oxford/AstraZeneca"  
+        ]
+    },
+    {
+        "pais": "Cambodia",
+        "vacinas": [
+        "Oxford/AstraZeneca",
+        "Sinopharm",
+        "CoronaVac"
+        ]
+    },
+    {
+       "pais": "Camarões",
+       "vacinas": [
+       "Sputnik V",
+       "Sinopharm"
+       ] 
+    }, 
+    {
+        "pais": "Canada",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "República Centro-Africana",
+        "vacinas": [
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+       "pais": "Chade",
+       "vacinas": [
+       "Sinopharm"
+       ]
+    },
+    {
+        "pais": "Chile",
+        "vacinas": [
+        "Sinopharm",
+        "CanSino",
+        "Sputnik V",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "China",
+        "vacinas": [
+        "Anhui Zhifei Longcom",
+        "CanSino",
+        "Minhai Biotechnology Co",
+        "Sinopharm",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Colombia",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Comores",
+        "vacinas": [
+        "Sinopharm"
+        ]
+    },
+    {
+       "pais": "Costa Rica",
+       "vacinas": [
+        "Pfizer/BioNTech",
+        "Oxford/AstraZeneca"
+       ] 
+    },
+    {
+        "pais": "Croácia",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Cuba",
+        "vacinas": [
+        "Abdala",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Chipre",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Chéquia",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "República Democrática do Congo",
+        "vacinas": [
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Dinamarca",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Moderna",
+        "Janssen (Johnson & Johnson)"
+        ]
+    },
+    {
+        "pais": "Djibouti",
+        "vacinas": [
+        "Sputnik V"
+        ]
+    },
+    {
+        "pais": "Dominica",
+        "vacinas": [
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "República Dominicana",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Oxford/AstraZeneca",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Equador",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "CanSino",
+        "Sputnik V",
+        "Oxford/AstraZeneca",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Egito",
+        "vacinas": [
+        "Sputnik Light",
+        "Sputnik V",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca",
+        "Sinopharm",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "El Salvador",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Oxford/AstraZeneca",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Guiné Equatorial",
+        "vacinas": [
+        "Sinopharm"
+        ]
+    }, 
+    {
+        "pais": "Estónia", 
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Essuatíni",
+        "vacinas": [
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Etiópia",
+        "vacinas": [
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Ilhas Feroe",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Moderna",
+        "Janssen (Johnson & Johnson)"
+        ]
+    }, 
+    {
+        "pais": "Fiji",
+        "vacinas": [
+        "Moderna",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Finlândia",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "França",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    }, 
+    {
+        "pais": "Gabão",
+        "vacinas": [
+        "Sputnik V",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Gâmbia",
+        "vacinas": [
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Geórgia",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Oxford/AstraZeneca",
+        "Sinopharm",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Alemanha",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Gana",
+        "vacinas": [
+        "Moderna",
+        "Sputnik V",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Grécia",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Groenlândia",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech"
+        ]
+    },
+    {
+        "pais": "Granada",
+        "vacinas": [
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Guatemala",
+        "vacinas": [
+            "Moderna",
+            "Sputnik V",
+            "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Guiné",
+        "vacinas": [
+        "Sputnik V"
+        ]
+    },
+    {
+        "pais": "Guiné-Bissau",
+        "vacinas": [
+            "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Guiana",
+        "vacinas": [
+        "Oxford/AstraZeneca",
+        "Sputnik V",
+        "Covaxin",
+        "Sinopharm"
+        ]  
+    },
+    {
+        "pais": "Haiti",
+        "vacinas": [
+        "Moderna",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Honduras",
+        "vacinas": [
+        "Moderna",
+        "Sputnik V",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Hong Kong",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Hungria",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "CanSino",
+        "Sputnik V",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+        ]
+    }, 
+    {
+        "pais": "Islândia",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Índia",
+        "vacinas": [
+        "Zydus Cadila",
+        "Moderna",
+        "Sputnik V",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca",
+        "Covaxin"
+        ]
+    },
+    {
+        "pais": "Indonésia",
+        "vacinas": [
+        "Anhui Zhifei Longcom",
+        "Moderna",
+        "Pfizer/BioNTech",
+        "CanSino",
+        "Sputnik V",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca",
+        "Sinopharm",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Irã",
+        "vacinas": [
+        "COVAX-19",
+        "Sputnik Light",
+        "Sputnik V",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca",
+        "Covaxin",
+        "Shifa Pharmed Industrial Co",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Iraque",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Sputnik V",
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+
+        ]
+    },
+    {
+        "pais": "Irlanda",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Israel",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech"
+        ]
+    },
+    {
+        "pais": "Itália",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Jamaica",
+        "vacinas": [
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Japão",
+        "vacinas": [
+        "Takeda",
+        "Pfizer/BioNTech",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Jordânia",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Sputnik V",
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Cazaquistão",
+        "vacinas": [
+        "Sputnik Light",
+        "Sputnik V",
+        "QazVac",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Quénia",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Sputnik V",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Kosovo",
+        "vacinas": [
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Kuwait",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Quirguistão",
+        "vacinas": [
+        "Sputnik Light",
+        "Sputnik V",
+        "QazVac",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Laos",
+        "vacinas": [
+        "Sputnik V",
+        "Sinopharm",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Letónia",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+
+        ]
+    },
+    {
+        "pais": "Líbano",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca",
+        "Pfizer/BioNTech",
+        "Sputnik V",
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Lesotho",
+        "vacinas": [
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Libéria",
+        "vacinas": [
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Líbia",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Sputnik V",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Liechtenstein",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"  
+        ]
+    },
+    {
+        "pais": "Lituânia",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Luxemburgo",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Madagáscar",
+        "vacinas": [
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+    ]
+    },
+    {
+        "pais": "Malawi",
+        "vacinas": [
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Malásia",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "CanSino",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca",
+        "Sinopharm",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Maldivas",
+        "vacinas": [
+        "Moderna",
+         "Pfizer/BioNTech",
+         "Sputnik V",
+         "Janssen (Johnson & Johnson)",
+         "Oxford/AstraZeneca",
+         "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Mali",
+        "vacinas": [
+        "Sputnik V",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Malta",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Mauritânia",
+        "vacinas": [
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Maurícia",
+        "vacinas": [
+        "Sputnik V",
+        "Sputnik Light",
+        "Oxford/AstraZeneca",
+        "Covaxin",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Mexico",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Moderna",
+        "CanSino",
+        "Sputnik V",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca",
+        "Covaxin",
+        "Sinopharm",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Micronésia",
+        "vacinas": [
+        "Moderna",
+        "Janssen (Johnson & Johnson)"
+        ]
+    },
+    {
+        "pais": "Mônaco",
+        "vacinas": [
+        "Pfizer/BioNTech"
+        ]
+    },
+    {
+        "pais": "Mongólia",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Sputnik Light",
+        "Sputnik V",
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Montenegro",
+        "vacinas": [
+        "Sputnik V",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Marrocos",
+        "vacinas": [
+        "Sputnik V",
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Moçambique",
+        "vacinas": [
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Birmânia",
+        "vacinas": [
+        "Sputnik V",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Namíbia",
+        "vacinas": [
+        "Sputnik V",
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Nauru",
+        "vacinas": [
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Nepal",
+        "vacinas": [
+        "Oxford/AstraZeneca",
+        "Sputnik V",
+        "Covaxin",
+        "Sinopharm",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "paises Baixos",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+
+        ]
+    },
+    {
+        "pais": "Nova Zelândia",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Nicarágua",
+        "vacinas": [
+        "Abdala",
+        "Pfizer/BioNTech",
+        "Sputnik Light",
+        "Sputnik V",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Macedônia do Norte",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Sputnik V",
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Noruega",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Moderna",
+        "Janssen (Johnson & Johnson)"
+        ]
+    },
+    {
+        "pais": "Omã",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Sputnik V",
+        "Oxford/AstraZeneca",
+        "CoronaVac"
+
+        ]
+    },
+    {
+        "pais": "Paquistão",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "CanSino",
+        "Sputnik V",
+        "Oxford/AstraZeneca",
+        "Sinopharm",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Panamá",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Sputnik V",
+        "Oxford/AstraZeneca",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Papua-Nova Guiné",
+        "vacinas": [
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Paraguai",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Sputnik V",
+        "Oxford/AstraZeneca",
+        "Covaxin",
+        "Sinopharm",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Peru",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Filipinas",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Moderna",
+        "Sputnik Light",
+        "Sputnik V",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca",
+        "Covaxin",
+        "Sinopharm",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Polónia",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Portugal",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Porto Rico",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Moderna",
+        "Janssen (Johnson & Johnson)"
+        ]
+    },
+    {
+        "pais": "Catar",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech"
+        ]
+    },
+    {
+        "pais": "Coreia do Sul",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Moldávia",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Sputnik V",
+        "Oxford/AstraZeneca"
+        ]
+    }, 
+    {
+        "pais": "República do Congo",
+        "vacinas": [
+        "Sputnik Light",
+        "Sputnik V",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Romênia",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Rússia",
+        "vacinas": [
+        "EpiVacCorona",
+        "Sputnik Light",
+        "Sputnik V",
+        "KoviVac"
+        ]
+    },
+    {
+        "pais": "Ruanda",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Oxford/AstraZeneca"
+        ]
+    }, 
+    {
+        "pais": "São Cristóvão e Neves",
+        "vacinas": [
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Santa Lúcia",
+        "vacinas": [
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "São Vicente e Granadinas",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Sputnik V",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "San marino",
+        "vacinas": [
+        "Sputnik V"
+        ]
+    },
+    {
+        "pais": "São Tomé e Príncipe",
+        "vacinas": [
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Arábia Saudita",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech"
+        ]
+    },
+    {
+        "pais": "Senegal",
+        "vacinas": [
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Sérvia",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Sputnik V",
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Seicheles",
+        "vacinas": [
+        "Moderna",
+        "Sputnik V",
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Serra Leoa",
+        "vacinas": [
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Singapura",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech"
+        ]
+    },
+    {
+        "pais": "Eslováquia",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech","Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Eslovénia",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Ilhas Salomão",
+        "vacinas": [
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Somália",
+        "vacinas": [
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "África do Sul",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Sudão do Sul",
+        "vacinas": [
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Espanha", 
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Sri Lanka",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Sputnik V",
+        "Oxford/AstraZeneca",
+        "Sinopharm",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Sudão",
+        "vacinas": [
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Suriname",
+        "vacinas": [
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Suécia",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Suíça",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Moderna",
+        "Janssen (Johnson & Johnson)"
+        ]
+    },
+    {
+        "pais": "Síria",
+        "vacinas": [
+        "Sputnik V",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Taiwan",
+        "vacinas": [
+        "Medigen",
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Tajiquistão",
+        "vacinas": [
+        "Oxford/AstraZeneca",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Thailand",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca",
+        "Sinopharm",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Timor-Leste",
+        "vacinas": [
+        "Oxford/AstraZeneca",
+        "CoronaVac"
+        ]
+    }, 
+    {
+        "pais": "Togo",
+        "vacinas": [
+        "Oxford/AstraZeneca",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Tonga",
+        "vacinas": [
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Trindade e Tobago",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Tunisia",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Sputnik V",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca",
+        "Sinopharm",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Turquia",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Sputnik V",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Turquemenistão",
+        "vacinas": [
+            "EpiVacCorona",
+            "Sputnik V"
+        ]
+    },
+    {
+        "pais": "Uganda",
+        "vacinas": [
+            "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Ucrânia",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Emirados Árabes Unidos",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Sputnik Light",
+        "Sputnik V",
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Reino Unido",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Tanzânia",
+        "vacinas": [
+        "Sputnik Light",
+        "Janssen (Johnson & Johnson)",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Estados Unidos",
+        "vacinas": [
+            "Pfizer/BioNTech",
+            "Moderna",
+            "Janssen (Johnson & Johnson)"
+        ]
+    },
+    {
+        "pais": "Uruguai",
+        "vacinas": [
+        "Pfizer/BioNTech",
+        "Oxford/AstraZeneca",
+        "CoronaVac"
+        ]
+    },
+    {
+        "pais": "Uzbequistão",
+        "vacinas": [
+        "Anhui Zhifei Longcom",
+        "Sputnik V",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Vanuatu",
+        "vacinas": [
+            "Oxford/AstraZeneca",
+            "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Vaticano",
+        "vacinas": [
+        "Pfizer/BioNTech"
+        ]
+    },
+    {
+        "pais": "Venezuela",
+        "vacinas": [
+            "Abdala",
+            "Sputnik Light",
+            "Sputnik V",
+            "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Vietnã",
+        "vacinas": [
+        "Abdala",
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Sputnik V",
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca",
+        "Sinopharm"
+        ]
+    },
+    {
+        "pais": "Cisjordânia",
+        "vacinas": [
+        "Moderna",
+        "Pfizer/BioNTech",
+        "Sputnik Light",
+        "Sputnik V"
+        ]
+    },
+    {
+        "pais": "Iémen",
+        "vacinas": [
+        "Oxford/AstraZeneca"
+        ]
+    }, 
+    {
+        "pais": "Zâmbia",
+        "vacinas": [
+        "Janssen (Johnson & Johnson)",
+        "Oxford/AstraZeneca"
+        ]
+    },
+    {
+        "pais": "Zimbabwe",
+        "vacinas": [
+        "Janssen (Johnson & Johnson)",
+        "Sputnik V",
+        "Covaxin",
+        "Sinopharm",
+        "CoronaVac"
+        ]
+    }
+]
+

@@ -1,0 +1,227 @@
+[
+    { 
+     "estado": "Brasil",
+     "doses": [
+       "314.158.730 doses aplicadas",
+       "159.539.701 primeira dose",
+       "140.517.221 segunda ou unica"
+    ]
+  },
+  { 
+    "estado": "Acre",
+    "doses": [
+      "989.623 doses aplicadas",
+      "563.351 primeira dose",
+      "426.272 segunda ou unica"
+    ]
+  },
+  {
+    "estado": "Alagoas",
+    "doses": [
+      "3.977.396 doses aplicadas",
+      "2.258.601 primeira dose",
+      "1.718.795 segunda dose ou unica"
+    ]
+  },
+  {
+    "estado": "Amazonas",
+    "doses": [
+      "4.802.304 doses aplicadas",
+      "2.693.829 primeira dose",
+      "2.108.475 segunda dose ou unica"
+    ]
+  },
+  {
+    "estado": "Amapa",
+    "doses": [
+      "807.953 doses aplicadas",
+      "503.841 primeira dose",
+      "304.112 segunda dose ou unica"
+    ]
+  },
+  {
+    "estado": "Bahia",
+    "doses": [
+    "18.805.880 doses aplicadas",
+    "10.692.831 primeira dose",
+    "8.113.049 segunda dose ou unica"
+    ]
+  },
+  {
+    "estado": "Ceara",
+    "doses": [
+      "13.384.089 doses aplicadas",
+      "6.852.118 primeira dose",
+      "6.531.971 segunda dose ou unica"
+    ]
+  },
+  {
+    "estado": "Distrito Federal",
+    "doses": [
+      "4.266.320 doses aplicadas",
+      "2.285.015 primeira dose",
+      "1.981.305 segunda dose ou unica"
+    ]
+  },
+  {
+    "estado": "Espirito Santo",
+    "doses": [
+      "5.768.923 doses aplicadas",
+      "3.142.385 primeira dose",
+      "2.626.538 segunda dose ou unicae"
+    ]
+  }, 
+  {
+    "estado": "Goias",
+    "doses": [
+      "9.342.518 doses aplicadas",
+      "5.220.009 primeira dose",
+      "4.122.509 segunda dose ou unica"
+    ]
+  },
+  {
+    "estado": "maranhao",
+    "doses": [
+      "7.774.214 doses aplicadas",
+      "4.414.576 primeira dose",
+      "3.359.638 segunda dose ou unica"
+    ]
+  }, 
+  {
+    "estado": "Minas Gerais",
+    "doses": [
+      "30.654.671 doses aplicadas",
+      "16.459.416 primeira dose",
+      "14.195.255 segunda dose ou unica"
+    ]
+  }, 
+  {
+    "estado": "Mato grosso do sul",
+    "doses": [
+      "3.956.783 doses aplicadas",
+      "2.017.246 primeira dose",
+      "1.939.537 segunda dose ou unica"
+    ]
+  },
+  {
+    "estado": "Mato grosso",
+    "doses": [
+      "4.517.189 doses aplicadas",
+      "2.519.101 primeira dose",
+      "1.998.088 segunda dose ou unica"
+    ]
+  },
+  {
+    "estado": "Para",
+    "doses": [
+      "9.033.183 doses aplicadas",
+      "5.381.337 primeira dose",
+      "3.651.846 segunda dose ou unica"
+    ]
+  },
+  {
+    "estado": "Paraiba",
+    "doses": [
+      "5.531.326 doses aplicadas",
+      "3.090.753 primeira dose",
+      "2.440.573 segunda dose ou unica"
+    ]
+  },
+  {
+    "estado": "Pernambuco",
+    "doses": [
+      "12.894.057 doses aplicadas",
+      "7.162.343 primeira dose",
+      "5.731.714 segunda dose ou unica"
+    ]
+  },
+  {
+    "estado": "Piaui",
+    "doses": [
+      "4.472.072 doses aplicadas",
+      "2.469.895 primeira dose",
+      "2.002.177 segunda dose ou unica"
+    ]
+  },
+  {
+    "estado": "Parana",
+    "doses": [
+      "16.836.419 doses aplicadas",
+      "9.016.969 primeira dose",
+      "7.819.450 segunda dose ou unica"
+    ]
+  },
+  {
+    "estado": "Rio de janeiro",
+    "doses": [
+      "23.816.241 doses aplicadas",
+      "13.001.532 primeira dose",
+      "10.814.709 segunda dose ou unica"
+    ]
+  },
+  {
+    "estado": "Rio grande do norte",
+    "doses": [
+      "4.783.537 doses aplicadas",
+      "2.595.595 primeira dose",
+      "2.187.942 segunda dose ou unica"
+    ]
+  },
+  {
+    "estado": "Rondonia",
+    "doses": [
+      "2.186.011 doses aplicadas",
+      "1.204.303 primeira dose",
+      "981.708 segunda dose ou unica"
+    ]
+  },
+  {
+    "estado": "Roroaima",
+    "doses": [
+      "995.890 doses aplicadas",
+      "491.104 primeira dose",
+      "504.786 segunda dose ou unica"
+    ]
+  },
+  {
+    "estado": "Rio grande do sul",
+    "doses": [
+      "16.818.925 doses aplicadas",
+      "8.895.600 primeira dose",
+      "7.923.325 segunda dose ou unica"
+    ]
+  }, 
+  {
+    "estado": "Santa catarina",
+    "doses": [
+      "10.765.491 doses aplicadas",
+      "5.754.411 primeira dose",
+      "5.011.080 segunda dose ou unica"
+    ]
+  }, 
+  {
+    "estado": "Sergipe",
+    "doses": [
+      "3.157.959 doses aplicadas",
+      "1.714.185 primeira dose",
+      "1.443.774 segunda dose ou unica"
+    ]
+  }, 
+  {
+    "estado": "Sao paulo",
+    "doses": [
+      "73.398.950 doses aplicadas",
+      "38.047.372 primeira dose",
+      "35.351.578 segunda dose ou unica"
+    ]
+  },
+  {
+    "estado": "Tocantins",
+    "doses": [
+      "1.865.065 doses aplicadas",
+      "1.050.862 primeira dose",
+      "814.203 segunda dose ou unica"
+    ]
+  }
+  ]
+  
